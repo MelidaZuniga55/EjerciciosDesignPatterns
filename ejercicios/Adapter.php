@@ -49,7 +49,7 @@ class Windows10 {
     }
 }
 
-// --- EJEMPLO DE USO MEJORADO ---
+// Ejemplo de uso
 echo "=== DEMOSTRACIÓN ADAPTER PATTERN ===\n\n";
 
 $win7 = new Windows7();                 
