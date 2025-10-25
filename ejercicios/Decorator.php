@@ -67,4 +67,5 @@ $hechiceraConBaston = new BastonMagico($hechicera);
 
 echo $guerreroConEspada->descripcion() . PHP_EOL;
 echo $hechiceraConBaston->descripcion() . PHP_EOL;
+
 ?>
